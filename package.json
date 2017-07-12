@@ -1,11 +1,14 @@
 {
   "name": "workflow-training",
   "version": "0.0.1",
-  "description": "Learning workflows"
-  },
+  "description": "Learning workflows",
   "repository": {
     "type": "git",
     "url": "?.git"
   },
-  "author": "Emil"
+  "author": "Emil",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
