@@ -1,0 +1,11 @@
+{
+  "name": "workflow-training",
+  "version": "0.0.1",
+  "description": "Learning workflows"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Emil"
+}
