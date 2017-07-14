@@ -79,7 +79,7 @@ $ = require('jquery');
 
 (fill = function(item) {
   return $('.tagline').append("" + item);
-})('Creative minds in Space');
+})('Creative minds in London');
 
 fill;
 
